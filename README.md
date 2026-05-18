@@ -4496,10 +4496,9 @@ Eventually, rumours were all people had to go on: Scheffler's many-tentacled bus
 
 Whatever his motivations, Scheffler remains an enigma for many, a mysterious outsider in an era of never-ending power plays and unstable rapprochements, and a reminder to alien races that humans - for all their inherent weaknesses - merit due respect.
 
-# Altan Explorer Survey: Velgemmis - Homeworld of the Elgem
-## Part 5: The Elgem
+# Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem
 
-# **The Elgem Species**
+## **The Elgem Species**
 
 The Elgem, a small and agile humanoid species native to Velgemmis, have flourished for millennia through a deep connection with their planet's diverse ecosystems. Averaging about one meter in height, with elongated limbs and expressive eyes adapted to low-light conditions, the Elgem possess physical traits perfectly suited to their home's lush and often hazardous environments. Their iridescent skin provides partial camouflage, subtly reflecting the vibrant hues of Velgemmis's flora. Over generations, the Elgem have evolved into a society that seamlessly integrates advanced technology with ecological stewardship.
 
@@ -4512,7 +4511,7 @@ Cultural values of interconnectedness, sustainability, and innovation underpin E
 As the sole sentient civilization on Velgemmis, the Elgem have shaped their world with care and ingenuity. Their respectful relationship with the planet's biomes has allowed them to cultivate a thriving society without disrupting the natural order. By harnessing the abundant resources of their environment responsibly, the Elgem embody a rare balance between progress and preservation. Their civilization stands as a testament to the potential for harmony between an intelligent species and the natural world, a dynamic that remains central to their enduring legacy.
 
 
-# Elgem Historical Timeline
+## Elgem Historical Timeline
 
 **3,000 Years Ago** – _First Encounters with Haar'thalas_\
 The Elgem first encounter Haar'thalas, the red mist, forcing them to seek refuge in the trees. Initial settlements are created high above the forest floor to avoid the mist, laying the foundation of their arboreal society.
@@ -4573,7 +4572,7 @@ The Great Green Renaissance reaffirms the Elgem's commitment to ecological harmo
 The Elgem stand as a highly advanced interstellar species and foundational members of the Federation. With colonies across multiple worlds, they continue to uphold principles of ecological balance and technological innovation, ensuring a sustainable future for themselves and their Federation allies. The Galactic Vitality Archive thrives, and the Laan'rothiri remains vigilant, protecting Federation worlds from threats while maintaining the delicate balance between progress and preservation.
 
 
-# The Five Tribes of Velgemmis
+## The Five Tribes of Velgemmis
 
 Velgemmis is home to five major Elgem tribes, each uniquely adapted to one of the planet's extraordinary biomes. These tribes have flourished by forging deep connections with their environments, harnessing natural resources with ingenuity while maintaining a profound respect for ecological balance. Their lifestyles and innovations reflect the diverse challenges and opportunities presented by their respective biomes, creating a tapestry of culture and technology uniquely attuned to the world they inhabit.
 
@@ -4590,17 +4589,17 @@ Velgemmis is home to five major Elgem tribes, each uniquely adapted to one of th
 Each tribe's deep connection to its biome reflects a central tenet of Elgem culture: the pursuit of balance between technological progress and ecological reverence. Together, the five tribes form a society that thrives through collaboration and shared respect for the natural world of Velgemmis.
 
 
-## The Veilwalkers: Guardians of the Canopy
+### The Veilwalkers: Guardians of the Canopy
 
 The Veilwalkers, the largest and oldest of the five major tribes, are masters of the towering Giant Tree Forests of Velgemmis. Residing in the lower to mid-reaches of the trees, the Veilwalkers have perfected techniques to coexist with their environment and protect themselves from the predatory red mist, Haar'thalas, which lurks closer to the ground. Their lifestyle is deeply intertwined with the unique flora, fauna, and ecosystems of the canopy, where they have built elaborate treehouse cities that harmonize with the natural environment.
 
 
-### Specialized Dwellings: Cities Among Giants
+#### Specialized Dwellings: Cities Among Giants
 
 The Veilwalkers' treehouse cities represent a perfect fusion of natural growth and advanced technology, built with a profound respect for the forest ecosystem and an emphasis on sustainable innovation. These elevated settlements, nestled within the branches and trunks of Arborcolossus Magnifolia, provide safe havens from the predatory red mist while coexisting harmoniously with their surroundings.
 
 
-#### Construction Techniques
+##### Construction Techniques
 
 The Veilwalkers utilize bio-sympathetic construction, a method that combines organic growth with advanced synthetic materials, creating dynamic, living structures.
 
@@ -4621,7 +4620,7 @@ The Veilwalkers utilize bio-sympathetic construction, a method that combines org
 The combination of guided growth and synthetic reinforcement enables the Veilwalkers to create settlements that are not only functional but deeply integrated into the forest ecosystem. These cities exemplify the Elgem ethos of sustainable innovation, balancing technological advancement with ecological harmony.
 
 
-### Flora Cultivation and Use
+#### Flora Cultivation and Use
 
 The Veilwalkers have a profound understanding of the forest's plant life, cultivating and harvesting various species to meet their needs while maintaining ecological balance.
 
@@ -4634,7 +4633,7 @@ The Veilwalkers have a profound understanding of the forest's plant life, cultiv
 4) **Aether Ivy:**  Aether Ivy's gas-filled leaves provide buoyancy and flexibility for bridges and platforms. Its fast growth rate allows for regular harvesting without damaging the forest's structure.
 
 
-### Fauna Partnerships
+#### Fauna Partnerships
 
 The Veilwalkers rely on cooperative relationships with the forest's animals, fostering mutual benefits and enhancing their ability to thrive in the canopy.
 
@@ -4647,17 +4646,17 @@ The Veilwalkers rely on cooperative relationships with the forest's animals, fos
 4) **Canopy Striders:** Canopy Striders are large avian creatures with elongated legs and gliding capabilities, used as mounts and cargo carriers within the Veilwalker cities. Domesticated by the Veilwalkers, these birds are provided with food and nesting areas in exchange for their transport and hauling services. Often adorned with bioluminescent markings during festivals, Canopy Striders are revered as symbols of freedom and resilience, essential to the Veilwalkers' way of life.
 
 
-### Cultural Practices of the Veilwalkers
+#### Cultural Practices of the Veilwalkers
 
 The Veilwalkers' cultural practices are deeply rooted in their connection to the towering forests of Velgemmis, reflecting their resilience, ingenuity, and respect for the delicate balance of their ecosystem. From vibrant ceremonies to artistic expression, the Veilwalkers' traditions celebrate the interdependence between their tribe and the vast canopy they inhabit.
 
 
-#### Rituals and Ceremonies
+##### Rituals and Ceremonies
 
 The Veilwalkers mark the passage of time and significant events through elaborate rituals that honor the forest and its creatures.
 
 
-##### Festival of the Luminous Veil
+###### Festival of the Luminous Veil
 
 The Festival of the Luminous Veil is the most celebrated event in Veilwalker society, occurring during the biannual bloom of the Shimmering Orchids. This festival symbolizes the tribe's connection to the canopy and their triumph over the lurking dangers of Haar'thalas.
 
@@ -4668,7 +4667,7 @@ The Festival of the Luminous Veil is the most celebrated event in Veilwalker soc
 - **Lantern Procession**: At night, the Veilwalkers release bioluminescent lanterns made from Glowfruit husks into the air. These lanterns ascend with the wind, symbolizing the tribe's unity and their aspirations for a bright future.
 
 
-#### The Ceremony of the Eternal Bough
+##### The Ceremony of the Eternal Bough
 
 The Pact is symbolically renewed every Cycle of Growth through the Ceremony of the Eternal Bough, a sacred ritual that unites the Veilwalker community in honoring their bond with the forest.
 
@@ -4681,7 +4680,7 @@ The Pact is symbolically renewed every Cycle of Growth through the Ceremony of t
 * **Mark of the Pact**: The ceremony culminates with elders etching the Mark of the Pact into a living branch using a non-invasive luminescent resin. The glowing symbol remains a visible reminder of the tribe's ongoing commitment to their sacred bond.
 
 
-##### Gift of the Glider
+###### Gift of the Glider
 
 This rite is a coming-of-age ceremony for young Veilwalkers, symbolizing their official integration into the tribe as stewards of the forest.
 
@@ -4692,7 +4691,7 @@ This rite is a coming-of-age ceremony for young Veilwalkers, symbolizing their o
 - **Gift of the Glider**: Each initiate is ceremonially presented with a Glider Monkey. This bond represents the mutual relationship between the Veilwalkers and the canopy's fauna. Glider Monkeys often become lifelong companions, assisting their partners in navigation and daily tasks.
 
 
-#### Artistic Expression
+##### Artistic Expression
 
 The Veilwalkers channel their creativity into art forms that reflect the vibrant life of the canopy.
 
@@ -4703,17 +4702,17 @@ The Veilwalkers channel their creativity into art forms that reflect the vibrant
 - **Canopy Music:** The Veilwalkers craft musical instruments from forest materials, such as hollowed branches, resonant fungal caps, and wind-sensitive vines. Music is a central part of their festivals and gatherings, with melodies often inspired by the sounds of the forest, such as bird calls, rustling leaves, and flowing streams.
 
 
-#### Philosophy and Education
+##### Philosophy and Education
 
 The Veilwalkers embrace a philosophy of balance and interconnectio**n**, emphasizing the importance of coexistence with their environment.
 
 
-##### Principle of the Veil
+###### Principle of the Veil
 
 The Principle of the Veil underpins the Veilwalkers' way of life, symbolizing the protective and nurturing qualities of the canopy. This principle guides their sustainable practices, governance, and personal relationships, reinforcing the idea that every action has a ripple effect on the ecosystem.
 
 
-##### Canopy Schools
+###### Canopy Schools
 
 Education is highly valued in Veilwalker society, with children learning about the forest through practical and experiential lessons. These include:
 
@@ -4724,12 +4723,12 @@ Education is highly valued in Veilwalker society, with children learning about t
 - **Myths and Legends**: Oral storytelling passes down the history and cultural values of the tribe, fostering a strong sense of identity.
 
 
-#### Sustainable Practices and Intertribal Trade
+##### Sustainable Practices and Intertribal Trade
 
 The Veilwalkers prioritize ecological harmony in all aspects of their lives, employing sustainable practices to ensure the health of the canopy and engaging in trade with other Elgem tribes.
 
 
-##### Resource Management
+###### Resource Management
 
 The Veilwalkers cultivate and harvest flora and fauna in ways that minimize disruption:
 
@@ -4738,7 +4737,7 @@ The Veilwalkers cultivate and harvest flora and fauna in ways that minimize disr
 * **Reinforcement with Aerolight Resin**: Platforms and structures are maintained with this bio-compatible material, ensuring durability while preserving the natural integrity of the trees.
 
 
-##### Unique Trade Goods
+###### Unique Trade Goods
 
 The Veilwalkers contribute distinctive goods to intertribal trade:
 
@@ -4749,17 +4748,17 @@ The Veilwalkers contribute distinctive goods to intertribal trade:
 - **Bioluminescent Lanterns**: Crafted from Glowfruit and luminescent extracts, these lanterns are traded with the Mycelari and Luminari for their light-emitting properties.
 
 
-### Sacred Pact with the Great Forests
+#### Sacred Pact with the Great Forests
 
 For the Veilwalkers, the towering Giant Trees and Mushrooms of Velgemmis are far more than a home—they are sacred stewards of life, protectors against the deadly Haar'thalas, and symbols of resilience and harmony. This profound connection has been formalized in a deeply spiritual tradition known as the Sacred Pact with the Great Forests.
 
 
-#### The Origins of the Pact
+##### The Origins of the Pact
 
 The Sacred Pact is rooted in the Veilwalkers' earliest history when their ancestors sought refuge from the blood fog in the heights of the forest canopy. Recognizing that the towering trees and colossal mushrooms provided not only shelter but sustenance, inspiration, and protection, the Veilwalkers vowed to honor the forest as their protector and equal. The Pact was first established during the Veil of Renewal, a transformative period when the tribe learned to guide the growth of trees and mushrooms to create their elevated settlements without harming the living structures. This foundational event solidified the Veilwalkers' philosophy of coexistence.
 
 
-#### The Tenets of the Pact
+##### The Tenets of the Pact
 
 The Sacred Pact with the Great Forests is upheld through three guiding tenets, which shape every aspect of Veilwalker life:
 
@@ -4773,21 +4772,21 @@ The Sacred Pact with the Great Forests is upheld through three guiding tenets, w
    As protectors of the forest, the Veilwalkers see themselves as stewards of the Laan'vaar, or Veil of Life. This includes safeguarding the canopy from threats like overharvesting, invasive species, and even internal imbalances that could disrupt the delicate ecosystem. The Veilwalkers' governance structures, including the roles of elders and canopy stewards, ensure that all actions align with this protective philosophy.
 
 
-#### Cultural Significance
+##### Cultural Significance
 
 The Sacred Pact with the Great Forests transcends mere tradition; it serves as the foundation of the Veilwalkers' identity and worldview. It shapes their governance, art, and daily practices, ensuring that every generation remains attuned to their role as stewards of the canopy. The Pact also underscores the interconnectedness of all life within the Giant Forests, reinforcing the tribe's belief that their survival is inextricably linked to the vitality of their environment.
 
 By adhering to the Pact, the Veilwalkers ensure that the towering trees continue to thrive, safeguarding their communities and preserving the ecosystem for the greater harmony of Velgemmis.
 
 
-## The Mycelari: Stewards of the Spore Valleys
+### The Mycelari: Stewards of the Spore Valleys
 
 The Mycelari, the third of the five major Elgem tribes to be introduced, inhabit the dense, spore-rich biomes surrounding Velgemmis's Spore Valleys. These valleys, perpetually shrouded in thick clouds of spores, provide an unparalleled environment for fungi and plants uniquely adapted to their atmosphere. The Mycelari have developed a highly specialized way of life, constructing their dwellings under and atop the massive caps of giant mushrooms, cultivating high-spore fungi for food and medicine, and integrating local flora and fauna into their agricultural and technological practices. In addition, the Spore Valleys serve as the source of Fungal Silk, a prized trade good spun from the fibrous threads of Shroudcap Fungi, which the Mycelari trade with other tribes for resources and materials unavailable in their spore-laden homeland.
 
 
-### Specialized Dwellings: Caps and Undersides
+#### Specialized Dwellings: Caps and Undersides
 
-#### Under the Mushroom Caps
+##### Under the Mushroom Caps
 
 The Mycelari dwell beneath the expansive caps of Magnamyces Titanicus, colossal mushroom species that dominate the landscape near the Spore Valleys. These natural shelters protect the Mycelari from the heavier spore clouds that settle closer to the ground and provide a stable base for their communities.
 
@@ -4796,7 +4795,7 @@ The Mycelari dwell beneath the expansive caps of Magnamyces Titanicus, colossal 
 * These chambers are insulated with layers of Sporefiber Moss (Bryophyta Sporica), a soft, spore-absorbing moss that minimizes humidity and provides thermoregulation.
 
 
-#### Atop the Mushroom Caps
+##### Atop the Mushroom Caps
 
 On the upper surfaces of the giant mushrooms, the Mycelari construct Cap-Perches, specialized platforms used for cultivation and observation. These lightweight platforms are crafted from Mistleaf Wrappings (derived from Giant Mistwort leaves) and reinforced with Velocite Fiber.
 
@@ -4807,7 +4806,7 @@ On the upper surfaces of the giant mushrooms, the Mycelari construct Cap-Perches
 The combination of Hollowstem Chambers and Cap-Perches allows the Mycelari to fully utilize the towering mushrooms, creating a unique architectural style that is both practical and harmonious with the ecosystem.
 
 
-### Cultivated Flora: A Rich Agricultural Legacy
+#### Cultivated Flora: A Rich Agricultural Legacy
 
 The Mycelari cultivate a diverse range of fungi and plants that thrive within the spore-laden atmosphere of the Spore Valleys. Key flora include:
 
@@ -4820,7 +4819,7 @@ The Mycelari cultivate a diverse range of fungi and plants that thrive within th
 4) **Crimson Duskbell:** This nocturnal plant blooms in the Spore Valleys, relying on the Vaporwing Moth for pollination. The nectar from the flowers is harvested to create calming teas and sleep remedies, while the deep red petals are typically ground up into a fine powder and make an excellent dye for clothing, and the creation of red vapor during the annual Mistfall Ceremony.
 
 
-### Integrated Fauna: Guardians and Workers
+#### Integrated Fauna: Guardians and Workers
 
 The Mycelari rely on several native species to maintain the ecological health of the Spore Valleys and assist in cultivation.
 
@@ -4831,7 +4830,7 @@ The Mycelari rely on several native species to maintain the ecological health of
 3. **Spore Drifters:** These floating, jellyfish-like animals are a key method of naturally managing airborne spore levels, and as such the Mycelari have created specialised artificial habitats called Drift Pods in and around their settlements & agricultural areas. These habitats are coated with pheromones that the Drifters are attracted to, and have plate-like perches that they can readily rest on.
 
 
-### Advanced Technologies in the Spore Valleys
+#### Advanced Technologies in the Spore Valleys
 
 The Mycelari seamlessly integrate technology into their agricultural practices to maintain ecological balance and improve efficiency.
 
@@ -4842,17 +4841,17 @@ The Mycelari seamlessly integrate technology into their agricultural practices t
 - **Myco-Lumin Spheres:** Bioluminescent lighting systems crafted from various native fungi provide illumination in the dimly lit Spore Valleys. Powered by nutrient-rich pastes created from harvested spores, these spheres are self-sustaining and eco-friendly, and are used all over Mycelari settlements to provide nighttime illumination.
 
 
-### Cultural Connection to the Spore Valleys
+#### Cultural Connection to the Spore Valleys
 
 For the Mycelari, the Spore Valleys are far more than a source of livelihood; they are sacred lands deeply entwined with their identity and worldview. The Mycelari believe that the spore clouds perpetually shrouding the valleys are the “Gift of Lifebreath”, representing the interconnected flow of energy and sustenance across Velgemmis's ecosystems. This reverence is reflected in every aspect of their daily lives, from agricultural practices to rituals and storytelling.
 
 
-#### Festivals and Rituals
+##### Festivals and Rituals
 
 The Mycelari celebrate their connection to the Spore Valleys through vibrant festivals and rituals that blend practical traditions with spiritual meaning.
 
 
-##### Sporefall Festival
+###### Sporefall Festival
 
 The Sporefall Festival is the most anticipated event of the year, marking the peak release of spores from the Giant Sporepods and other valley flora. The Mycelari view Sporefall as a time of renewal, growth, and unity between their tribe and the Veil of Life.
 
@@ -4866,7 +4865,7 @@ The Sporefall Festival is the most anticipated event of the year, marking the pe
 * **Feasting and Music**: The Mycelari prepare elaborate dishes using Shroudcap Fungi, Sporemeal, and nectar from Crimson Duskbell flowers. Traditional instruments, crafted from Aeroplume Kelp and Starlace Coral, accompany songs that recount the myths of the Mistmother and the origins of the Mycelari.
 
 
-##### Verdant Renewal
+###### Verdant Renewal
 
 The Verdant Renewal is an annual ritual where the Mycelari focus on planting and nurturing new crops in the Spore Valleys, symbolizing their pact with the land to maintain its balance and vitality.
 
@@ -4875,7 +4874,7 @@ The Verdant Renewal is an annual ritual where the Mycelari focus on planting and
 * **Harvest and Sharing**: Verdant Renewal also marks the end of the previous harvest cycle. The Mycelari gather their best produce, such as Fungal Silk or refined Sporemist, and share it within the tribe and with visiting members of other Elgem tribes.
 
 
-#### Stories and Mythology
+##### Stories and Mythology
 
 The Mycelari have a rich oral tradition tied to the Spore Valleys. Many of their myths center around the Mistmother, a semi-divine figure believed to guide the spore cycles and the interconnected ecosystems of Velgemmis.
 
@@ -4884,7 +4883,7 @@ The Mycelari have a rich oral tradition tied to the Spore Valleys. Many of their
 * **Lessons for Children**: Mycelari children are told cautionary tales of those who neglected the spore cycles, leading to barren fields and overgrown fungi. These stories teach the importance of harmony and respect for the Gift of Lifebreath.
 
 
-#### Symbolic and Artistic Expressions
+##### Symbolic and Artistic Expressions
 
 Artistic expression is deeply rooted in the Mycelari's reverence for the Spore Valleys. The bioluminescence of the ecosystem inspires much of their creative work, resulting in glowing patterns and vivid designs.
 
@@ -4895,7 +4894,7 @@ Artistic expression is deeply rooted in the Mycelari's reverence for the Spore V
 - **Carvings and Mosaics**: The Mycelari carve intricate murals into the stalks of Magnamyces Titanicus mushrooms, depicting the myths of the Mistmother, the cycles of the spore clouds, and scenes of their tribe's daily life. At night, these carvings glow faintly, creating a dreamlike ambiance in their settlements.
 
 
-#### Fungal Silk as a Cultural and Trade Icon
+##### Fungal Silk as a Cultural and Trade Icon
 
 The production of Fungal Silk is a significant aspect of Mycelari culture, symbolizing their ingenuity and connection to the valleys. The silk is highly valued across Velgemmis for its durability, moisture resistance, and versatility.
 
@@ -4904,7 +4903,7 @@ The production of Fungal Silk is a significant aspect of Mycelari culture, symbo
 * **Trade Value**: Other Elgem tribes prize Fungal Silk for its lightweight strength and unique appearance. The Mycelari trade it for resources like Velocite Fiber from the Skywarders or bioluminescent compounds from the Tidecallers. This trade fosters intertribal cooperation and reinforces the Mycelari's role as stewards of Velgemmis's most delicate ecosystems.
 
 
-#### Education and Philosophy
+##### Education and Philosophy
 
 The Mycelari view their role as stewards of the Spore Valleys as a sacred duty. This philosophy is instilled in every member of the tribe through education and communal practices.
 
@@ -4913,19 +4912,19 @@ The Mycelari view their role as stewards of the Spore Valleys as a sacred duty. 
 * **Spore Scholars**: A subset of the Mycelari dedicates their lives to studying the spores and fungi of the valleys. These scholars uncover new medicinal properties and sustainable practices, ensuring the continued prosperity of the tribe.
 
 
-### Sacred Pact with the Spore Valleys
+#### Sacred Pact with the Spore Valleys
 
 The Mycelari tribe's existence is intricately woven into the dense, spore-laden atmosphere of the Spore Valleys. These valleys, veiled in perpetual clouds of spores, are both a sanctuary and a challenge, demanding deep respect and careful stewardship. The Sacred Pact with the Spore Valleys encapsulates the Mycelari's commitment to preserving the unique ecosystem they inhabit, fostering a harmonious relationship with the fungal life that sustains them.
 
 
-#### Origins of the Pact
+##### Origins of the Pact
 
 The Sacred Pact with the Spore Valleys was born from the Mycelari's earliest days of settlement beneath the towering caps of the Magnamyces Titanicus mushrooms. When the tribe first entered these valleys, they were overwhelmed by the dense spores that permeated the air. Over time, they developed techniques to adapt, learning to cultivate the native fungi and utilize the spores as both a resource and a vital part of their daily lives.
 
 According to Mycelari oral history, the Pact was first established during a famine that threatened the tribe's survival. A sudden bloom of Shroudcap Fungi provided enough food to sustain them, and the tribe vowed to honor the Spore Valleys for this life-saving bounty. This event marked the beginning of their spiritual and practical connection to the ecosystem.
 
 
-#### Tenets of the Pact
+##### Tenets of the Pact
 
 The Sacred Pact with the Spore Valleys is upheld through three guiding tenets that govern the Mycelari's interactions with their environment:
 
@@ -4939,7 +4938,7 @@ The Sacred Pact with the Spore Valleys is upheld through three guiding tenets th
    As stewards of the Spore Valleys, the Mycelari are committed to protecting the delicate balance of spore release and dispersal. This includes monitoring the ecosystem for signs of overgrowth or depletion and intervening only when necessary to maintain equilibrium.
 
 
-#### Symbolic Practices and Responsibilities
+##### Symbolic Practices and Responsibilities
 
 The Mycelari uphold their Sacred Pact through daily practices that reflect their intimate connection with the Spore Valleys.
 
@@ -4953,19 +4952,19 @@ The Mycelari uphold their Sacred Pact through daily practices that reflect their
   The Silken Threads are a collection of woven patterns and symbols made from Fungal Silk, used to document the tribe's history and environmental observations. These intricate works of art not only preserve knowledge but also serve as reminders of the Mycelari's responsibility to the valleys.
 
 
-#### Cultural Significance
+##### Cultural Significance
 
 The Sacred Pact with the Spore Valleys is central to the Mycelari's identity, shaping their cultural practices, governance, and daily life. It represents a commitment to balance and symbiosis, ensuring that the valleys' resources are used sustainably while fostering a deep spiritual connection to their environment.
 
 By honoring the Pact, the Mycelari ensure the continued vitality of the Spore Valleys, creating a model for coexistence that aligns with the broader Elgem philosophy. Their stewardship and innovations in fungal cultivation not only sustain their community but also provide valuable resources for other tribes, such as Fungal Silk for textiles and trade. The Mycelari's dedication to the Spore Valleys serves as a testament to the Elgem's ability to thrive in even the most specialized ecosystems.
 
 
-## The Luminari Tribe: Guardians of the Luminescent Swamplands
+### The Luminari Tribe: Guardians of the Luminescent Swamplands
 
 The history and development of the Luminari Tribe is deeply rooted in the glowing ecosystems of the Luminescent Swamplands. These swampy biomes, rich with bioluminescent flora and fauna, provide the Luminari with abundant resources for sustenance, medicine, and construction. Over millennia, the tribe has cultivated a symbiotic relationship with their environment, developing specialized techniques to thrive within the challenging humidity and occasional invasive attempts of Haar'Thalas.
 
 
-### Specialized Dwellings in the Swamplands
+#### Specialized Dwellings in the Swamplands
 
 The Luminari have constructed sprawling floating villages that blend seamlessly with the environment. Their floating settlements, called Lumin Groves, are built upon rafts crafted from the trunks of Everfloat Trees. These trees produce lightweight, water-repellent wood that is both buoyant and durable, making it ideal for long-lasting structures in the swamp's humid conditions. The platforms are further stabilized with Aether Ivy, whose gas-filled leaves ensure the rafts maintain balance even during turbulent weather.
 
@@ -4974,7 +4973,7 @@ The village layouts incorporate Lumastrands, glowing vines that outline pathways
 Each dwelling is constructed with a combination of natural materials, including Luminous Moss, which lines the walls to provide insulation and a gentle glow. The moss also absorbs excess moisture, preventing fungal growth that could compromise the structures. Inside, the Luminari use Glowfruit Wood to craft furniture and tools, as it is durable, naturally hydrophobic, and has a rich earthy colour that brings a feeling of warmth and homeliness to their abodes.
 
 
-### Cultivated Flora and Harvested Resources
+#### Cultivated Flora and Harvested Resources
 
 The Luminari rely on an intricate network of floating gardens, anchored by the Everfloat Trees and Aether Ivy, to cultivate essential plants. The gardens are mobile, designed to drift with water currents, minimizing their impact on the swamp's natural dynamics.
 
@@ -4987,7 +4986,7 @@ The Luminari rely on an intricate network of floating gardens, anchored by the E
 4) **Mistwort:** Found at the swamp's edges, Mistwort leaves are harvested and processed into mist-resistant clothing for added protection against Haar'Thalas. The leaves are also steeped into teas believed to enhance respiratory resilience in the damp environment.
 
 
-### Fauna Partnerships
+#### Fauna Partnerships
 
 The Luminari maintain a symbiotic relationship with the fauna of the Luminescent Swamplands, relying on these creatures for pest control, pollination, and ecosystem monitoring.
 
@@ -5000,17 +4999,17 @@ The Luminari maintain a symbiotic relationship with the fauna of the Luminescent
 4) **Mistshrike Eel:** A more recent discovery, the Mistshrike Eel is a predator of smaller organisms that have evolved to thrive in Haar'Thalas' proximity. The Luminari carefully monitor the activity of these eels in a sizable area around their settlements, as their food-driven migratory patterns give a good indication of where the fearsome blood fog has begun to encroach.
 
 
-### Cultural Connection: The Luminari's Radiant Bond with the Swamplands
+#### Cultural Connection: The Luminari's Radiant Bond with the Swamplands
 
 For the Luminari, the Bioluminescent Swamplands are more than a habitat—they are a living tapestry of light and life, central to their identity and culture. These glowing wetlands are revered as a source of sustenance, inspiration, and spiritual significance. The swamplands' radiant beauty and rich biodiversity have shaped the Luminari's rituals, art, and sustainable practices, embedding the environment into every aspect of their daily lives.
 
 
-#### Rituals and Ceremonies
+##### Rituals and Ceremonies
 
 The Luminari celebrate their connection to the Bioluminescent Swamplands with rituals that honor the glowing flora and fauna, as well as the unique light cycles that govern life in the wetlands.
 
 
-##### Festival of Radiance
+###### Festival of Radiance
 
 The Festival of Radiance is the Luminari's most significant celebration, held annually during the peak bloom of the swamplands' bioluminescent flora.
 
@@ -5021,7 +5020,7 @@ The Festival of Radiance is the Luminari's most significant celebration, held an
 - **Light Dances**: At night, Luminari performers clad in bioluminescent garments enact dances inspired by the movements of swampland creatures, particularly the Glintwing Dragonfly and the Flare Fish.
 
 
-##### Ritual of Reflection
+###### Ritual of Reflection
 
 The Ritual of Reflection is a monthly ceremony during which the Luminari honor the swamplands' still waters and the insights they bring.
 
@@ -5032,7 +5031,7 @@ The Ritual of Reflection is a monthly ceremony during which the Luminari honor t
 - **Meditative Practices**: Participants gather at twilight to meditate on the mirrored waters of the swamps, drawing inspiration and wisdom from the interplay of light and shadow.
 
 
-#### Ceremony of the Glowing Waters
+##### Ceremony of the Glowing Waters
 
 The **Ceremony of the Glowing Waters** is an annual ritual that renews the Sacred Pact and strengthens the Luminari's connection to the swamplands. This celebration is both a spiritual gathering and a demonstration of gratitude to the glowing marshes.
 
@@ -5046,7 +5045,7 @@ The **Ceremony of the Glowing Waters** is an annual ritual that renews the Sacre
   At the height of the ceremony, the Luminari release small baskets of Luminous Swampweed into the water, a symbolic gesture of replenishment and harmony. The glowing plants drift across the swamp, creating a spectacle of light that resonates with the tribe's reverence for their environment.
 
 
-#### Stories and Mythology
+##### Stories and Mythology
 
 The glowing swamplands inspire a wealth of myths and legends that serve as moral and ecological lessons for the Luminari.
 
@@ -5062,7 +5061,7 @@ The glowing swamplands inspire a wealth of myths and legends that serve as moral
 These stories are preserved through oral traditions, often accompanied by songs and glowing murals built into the walls of Luminari homes.
 
 
-#### Symbolism and Art
+##### Symbolism and Art
 
 The radiant environment of the swamplands permeates the Luminari's artistic and cultural expressions.
 
@@ -5073,7 +5072,7 @@ The radiant environment of the swamplands permeates the Luminari's artistic and 
 - **Glintwing Patterns**: The iridescent wings of the Glintwing Dragonfly inspire many of the Luminari's decorative motifs, appearing on everything from pottery to ceremonial robes.
 
 
-#### Trade and Resource Sharing
+##### Trade and Resource Sharing
 
 The Bioluminescent Swamplands provide the Luminari with unique resources that are highly valued across Velgemmis. The tribe's trade goods include:
 
@@ -5084,7 +5083,7 @@ The Bioluminescent Swamplands provide the Luminari with unique resources that ar
 - **Flare Fish Scales**: The reflective and bioluminescent scales of the Flare Fish are repurposed into decorative and functional items, such as jewelry and lighting panels.
 
 
-#### Education and Philosophy
+##### Education and Philosophy
 
 The Luminari embrace a philosophy of illumination and balance, emphasizing the importance of living in harmony with the glowing wetlands. This belief guides their education and social practices.
 
@@ -5095,19 +5094,19 @@ The Luminari embrace a philosophy of illumination and balance, emphasizing the i
 - **Communal Reflection**: Periodic gatherings are held to discuss the state of the swamplands and plan for their future preservation. These gatherings reinforce the tribe's collective responsibility for their home.
 
 
-### Sacred Pact with the Bioluminescent Swamplands
+#### Sacred Pact with the Bioluminescent Swamplands
 
 The Luminari's connection to the glowing marshes of Velgemmis runs as deep as the shimmering waters that define their world. The Sacred Pact with the Bioluminescent Swamplands is a solemn tradition that binds the Luminari to the unique and fragile ecosystem they call home, embodying their respect for its natural radiance and the symbiotic balance that sustains their way of life.
 
 
-#### Origins of the Pact
+##### Origins of the Pact
 
 The Sacred Pact with the Bioluminescent Swamplands originated during the Luminari's earliest settlement of the glowing marshes. Legend speaks of the tribe's discovery of Luminous Swampweed, whose soft, natural light guided their ancestors safely through treacherous waters. In gratitude for this illumination and the resources the swamplands provided, the Luminari made a vow to protect and nurture the delicate biome that had become their sanctuary.
 
 The Pact grew over generations as the Luminari developed their floating settlements and began cultivating the unique flora and fauna of the swamps. It formalized their commitment to sustainability, harmony, and reverence for the natural luminescence that surrounds them.
 
 
-#### Tenets of the Pact
+##### Tenets of the Pact
 
 The Sacred Pact with the Bioluminescent Swamplands is upheld through three guiding principles:
 
@@ -5121,41 +5120,41 @@ The Sacred Pact with the Bioluminescent Swamplands is upheld through three guidi
    As stewards of the swamplands, the Luminari commit to protecting its fragile balance. This includes preserving the freshwater reefs that underpin the swamplands, monitoring water quality, and actively restoring any areas damaged by natural or external forces.
 
 
-#### Symbolic Practices and Responsibilities
+##### Symbolic Practices and Responsibilities
 
 The Luminari uphold their Pact through daily practices and responsibilities that reinforce their bond with the Bioluminescent Swamplands.
 
 
-##### Glowward Custodianship
+###### Glowward Custodianship
 
 Selected members of the tribe, known as Glowwards, are tasked with overseeing the health of the swamplands. These custodians monitor bioluminescent plant growth, track the movement of pollinators like the Glintwing Dragonfly, and ensure that the ecosystem remains balanced. Glowwards are also responsible for maintaining the freshwater reefs, safeguarding their role as a vital habitat for marine and swamp life.
 
 
-##### Ritual of Illumination
+###### Ritual of Illumination
 
 Before any major harvest or expansion of their floating gardens, the Luminari conduct the Ritual of Illumination, a meditative practice where members commune with the glowing waters. By observing the natural patterns of light and movement, the tribe determines the most sustainable course of action, ensuring that their endeavors align with the swamplands' natural rhythms.
 
 
-##### Songs of the Marshlight
+###### Songs of the Marshlight
 
 The Luminari's oral traditions are preserved through the Songs of the Marshlight, a collection of stories, chants, and melodies inspired by the bioluminescent life of the swamps. These songs serve both as cultural records and as tools for teaching younger generations about the importance of the Sacred Pact.
 
 
-#### Cultural Significance
+##### Cultural Significance
 
 The Sacred Pact with the Bioluminescent Swamplands is more than a tradition - it is a cornerstone of Luminari identity. It shapes their agricultural practices, spiritual beliefs, and artistic expression, ensuring that the swamps remain both a source of life and a beacon of beauty. By honoring the Pact, the Luminari sustain the delicate balance of the glowing marshes, fostering a deep connection to Velgemmis' unique ecosystems.
 
 This relationship not only allows the Luminari to thrive but also positions them as stewards of the swamplands, providing a model of coexistence for the other Elgem tribes. Through their reverence and care, the Luminari continue to shine as luminous keepers of Velgemmis's radiant heart.
 
 
-## The Skywarders: Masters of the Thunder Peaks
+### The Skywarders: Masters of the Thunder Peaks
 
 The Skywarders, the final of the five Elgem tribes, have established their domain in the Thunder Peaks, a mountainous region dominated by perpetual storms, electromagnetic anomalies, and extreme weather conditions. Through a combination of innovation, adaptation, and reverence for their harsh environment, the Skywarders have developed unique dwellings, cultivated specialized flora and fauna, and harnessed the natural electrical energy of the peaks.
 
 
-### Specialized Dwellings
+#### Specialized Dwellings
 
-#### Cliffside Spires
+##### Cliffside Spires
 
 The Cliffside Spires are towering, multi-tiered structures embedded into the steep rock faces of the Thunder Peaks. These spires are designed to endure the region's relentless storms, powerful winds, and constant lightning strikes. Constructed with a blend of advanced synthetic materials and natural elements, the spires represent the ingenuity of the Skywarders in adapting to their harsh environment.
 
@@ -5168,7 +5167,7 @@ Each spire is multi-leveled, with the lower tiers dedicated to energy collection
 These Cliffside Spires are architectural masterpieces that blend natural and synthetic ingenuity, standing as a testament to the Skywarders' adaptability and innovation.
 
 
-#### Floating Platforms
+##### Floating Platforms
 
 Above the cliffs, the Skywarders have constructed floating platforms that serve as laboratories, observatories, and launch pads for their aerial operations. These platforms are engineered with an intricate combination of Floating Kelp, Cloud Vines, and advanced materials like Velocite Fiber and Aero-Root Mesh.
 
@@ -5181,7 +5180,7 @@ Above the cliffs, the Skywarders have constructed floating platforms that serve 
 This integration of natural and synthetic materials ensures that the Skywarders' platforms remain functional and safe, even during the most turbulent storms.
 
 
-### Flora Cultivation and Harvesting
+#### Flora Cultivation and Harvesting
 
 The flora of the Thunder Peaks has adapted to harness and withstand the region's electrical energy, providing the Skywarders with essential resources for survival and innovation.
 
@@ -5194,7 +5193,7 @@ The flora of the Thunder Peaks has adapted to harness and withstand the region's
 4) **Thunder Thistle:** This hardy plant plays a key role in attracting pollinators like the Thunderclap Bird. Its vibrant flowers and resilient structure make it a symbol of the Skywarders' adaptability. The thistle's thorns are also harvested for ceremonial adornments and tools.
 
 
-### Fauna Taming and Symbiosis
+#### Fauna Taming and Symbiosis
 
 The Skywarders maintain symbiotic relationships with the fauna of the Thunder Peaks, many of which are uniquely adapted to the stormy environment.
 
@@ -5207,7 +5206,7 @@ The Skywarders maintain symbiotic relationships with the fauna of the Thunder Pe
 4) **Electro Skink:** The Electro Skink thrives in symbiosis with Electrocap Mushrooms, preying on insects drawn to the mushrooms' glow. Its presence helps the Skywarders maintain ecological balance in their cultivated fields.
 
 
-### Harnessing Storm Energy
+#### Harnessing Storm Energy
 
 The Skywarders are renowned for their technological innovations, particularly their methods for harnessing the electrical energy of the Thunder Peaks.
 
@@ -5221,14 +5220,14 @@ The Skywarders are renowned for their technological innovations, particularly th
   The Skyborne Skimmer, a hybrid vehicle for aerial and terrestrial exploration, is a hallmark of Skywarder ingenuity. These vehicles are equipped with bioelectric skins that mimic the electromagnetic properties of local fauna, rendering them nearly impervious to lightning strikes.
 
 
-### Cultural Connection to the Thunder Peaks
+#### Cultural Connection to the Thunder Peaks
 
 The Skywarders, the final tribe of the Elgem, are deeply connected to the untamed, electrified realm of the Thunder Peaks. The storms that rage above their homes, bringing lightning and powerful winds, are both a source of energy and a spiritual force. The Skywarders view these storms not as threats, but as manifestations of Kaeni'Vael, the Charged Winds, and they have woven this reverence into every aspect of their cultural practices.
 
 
-### Rites and Festivals
+#### Rites and Festivals
 
-#### Festival of the Sky's Fury
+##### Festival of the Sky's Fury
 
 The Festival of the Sky's Fury is the Skywarders' most celebrated event, occurring annually during the storm season when the lightning is at its peak. This festival is both a celebration of the storms and a communal gathering to honor their symbiotic relationship with the Thunder Peaks.
 
@@ -5242,7 +5241,7 @@ The Festival of the Sky's Fury is the Skywarders' most celebrated event, occurri
   The festival concludes with grand communal feasts featuring dishes made from ingredients harvested in the Thunder Peaks, such as Volt Vine Fruit, Thunder Thistle Root, and smoked meats of small game. These feasts reinforce the bond between the tribe and their environment.
 
 
-#### Stormcall
+##### Stormcall
 
 Stormcall is central to the Sacred Pact of the Skywarders with their regional home, performed at the start of each storm season. Skywarders gather on the highest platforms of their Cliffside Spires, bringing with them symbolic items such as Storm Charms made from fragments of Lightning Rod Tree Bark and Volt Vine Garlands.
 
@@ -5251,9 +5250,9 @@ The ritual begins with a Sky Chant, a melodic hymn carried by the wind, meant to
 At the climax of the ritual, Skywarders activate their Storm Harvesters as a symbolic act of trust, channeling the raw power of lightning into their energy systems. This moment represents the harmony between their technological ingenuity and the natural forces of the Charged Winds.
 
 
-### Sacred Practices
+#### Sacred Practices
 
-#### **Bond of the Storm**
+##### **Bond of the Storm**
 
 The Bond of the Storm is a rite of passage for young Skywarders entering adulthood. Each initiate is tasked with ascending to one of the highest spires during an active storm to retrieve a small fragment of Lightning Rod Tree Bark, symbolizing their personal connection to Kaeni'Vael. These fragments are later fashioned into amulets known as Storm Charms, which are believed to protect the wearer from harm and guide them in times of uncertainty.
 
@@ -5264,17 +5263,17 @@ The Bond of the Storm is a rite of passage for young Skywarders entering adultho
   Experienced Skyborne Riders, mounted on Stormwing Eagles, accompany the initiates, ensuring their safety while allowing them to prove their resilience and courage.
 
 
-#### Oath of the Peaks
+##### Oath of the Peaks
 
 The Oath of the Peaks is a collective vow taken by all Skywarders at the start of each storm season. Standing beneath the charged skies, they renew their commitment to Kaeni'Vael, promising to maintain balance between innovation and nature. This oath is often recited alongside the lighting of Sky Torches, crafted from Lightning Rod Tree Sap, whose glow serves as a beacon of unity for the tribe.
 
 
-### Symbolism and Art
+#### Symbolism and Art
 
 The Skywarders express their connection to the Thunder Peaks through their art and craftsmanship, often blending natural and synthetic materials to create symbolic works.
 
 
-#### Electrocap Patterns
+##### Electrocap Patterns
 
 The glowing pigments derived from Electrocap Dye are used to adorn clothing, tools, and architecture. These patterns are not only decorative but also convey information about an individual's achievements or lineage. For example:
 
@@ -5283,24 +5282,24 @@ The glowing pigments derived from Electrocap Dye are used to adorn clothing, too
 * Swirling cloud designs represent wisdom and connection to the winds.
 
 
-#### Wind Songs
+##### Wind Songs
 
 Music is an integral part of Skywarder culture, with instruments like the Aether Harp, which uses strings of Fungal Silk, and the Storm Flute, crafted from hollowed Thunder Thistle Stalks, producing melodies that mimic the whistling winds and rumbling thunder. These wind songs are performed during ceremonies and gatherings, echoing the harmony between the tribe and their environment.
 
 
-### Everyday Practices
+#### Everyday Practices
 
-#### Energy Harvest Rituals
+##### Energy Harvest Rituals
 
 The Skywarders perform daily rituals to honor the storms while collecting energy. Before activating Storm Harvesters, technicians utter short incantations of gratitude to Kaeni'Vael. These rituals reinforce their respect for the source of their energy and serve as a reminder of their dependence on the land.
 
 
-#### Cloak Weaving
+##### Cloak Weaving
 
 Skywarders take pride in their Storm Cloaks, woven from Aero-Root Mesh and lined with Electrocap Spores, which provide protection against the elements and minor electrical discharges. The process of weaving a cloak is a communal activity, with elders teaching younger members the intricate patterns and techniques.
 
 
-### Trade and Relationships
+#### Trade and Relationships
 
 The Skywarders' resource-rich environment allows them to contribute unique goods to the Elgem tribes, fostering inter-tribal relationships.
 
@@ -5314,19 +5313,19 @@ The Skywarders' resource-rich environment allows them to contribute unique goods
   The Skywarders' expertise in taming and training airborne creatures like the Stormwing Eagle is shared with other tribes in exchange for materials such as Fungal Silk from the Mycelari or Everfloat Wood from the Luminari.
 
 
-### Philosophy and Spirituality
+#### Philosophy and Spirituality
 
 At the core of the Skywarders' culture is the Will of the Winds, which teaches that progress and respect for nature must coexist. They see the Thunder Peaks as a living force, a part of Kaeni'Vael, and their spiritual practices reflect a deep appreciation for the storms.
 
 
-### Sacred Pact with Kaeni'Vael
+#### Sacred Pact with Kaeni'Vael
 
 The Skywarders' Sacred Pact with Kaeni'Vael, the Charged Winds, is both a declaration of reverence and a solemn commitment to coexist with the volatile forces of the Thunder Peaks. This pact, passed down through generations, forms the spiritual foundation of their connection to the electrified skies and the storms that define their homeland.
 
 The pact acknowledges Kaeni'Vael as a living entity, a vital force that embodies the unpredictable dance of energy, wind, and lightning. The Skywarders believe that the Charged Winds are not only the source of their power but also the keeper of their fate. The storms demand respect and adaptability, testing the Skywarders' ingenuity while providing the resources they need to thrive.
 
 
-#### Core Tenets of the Pact
+##### Core Tenets of the Pact
 
 1. **Harmony with the Charged Winds**\
    The Skywarders vow to maintain balance, harvesting the energy of the storms without exploiting or destabilizing the natural cycles of the Thunder Peaks. Their technological advancements, such as Storm Harvesters and Aether Wind Conduits, are meticulously designed to coexist with the winds rather than dominate them.
@@ -5341,7 +5340,7 @@ The pact acknowledges Kaeni'Vael as a living entity, a vital force that embodies
    In honoring the storms, the Skywarders embrace change and resilience. The Charged Winds are a reminder that survival in the Thunder Peaks requires innovation, flexibility, and unity.
 
 
-#### Symbolism in Daily Life
+##### Symbolism in Daily Life
 
 The Sacred Pact with Kaeni'Vael influences every aspect of Skywarder culture:
 
@@ -5352,22 +5351,22 @@ The Sacred Pact with Kaeni'Vael influences every aspect of Skywarder culture:
 - **Storm Names**: Significant storms are named and recorded in Skywarder history, seen as moments when Kaeni'Vael directly speaks to the tribe.
 
 
-#### Legacy of the Pact
+##### Legacy of the Pact
 
 The Sacred Pact with Kaeni'Vael is a living tradition, evolving alongside the Skywarders' understanding of the Thunder Peaks. Through their unwavering commitment to the Charged Winds, the Skywarders exemplify the balance between progress and respect for nature, ensuring their survival and prosperity in one of Velgemmis's most volatile biomes.
 
 
-## The Tidecallers: Masters of the Endless Veil
+### The Tidecallers: Masters of the Endless Veil
 
 The Tidecallers, the second of the five major Elgem tribes, are masters of the oceans, transforming the boundless expanse of Velgemmis's waters - known to them as Laan'theren ("The Endless Veil") - into thriving hubs of life and culture. Through innovative techniques and symbiotic relationships with marine ecosystems, the Tidecallers have established both surface and underwater civilizations that epitomize harmony with their aquatic environment. Drawing on the unique resources of the Pelagic Territories, Bioluminescent Reefs, Midnight Zones, and Hydrothermal Vent Ecosystems, they cultivate flora and fauna for sustenance, materials, and advanced research.
 
 
-### Specialized Ocean Dwellings
+#### Specialized Ocean Dwellings
 
 The Tidecallers have established two primary types of habitats:
 
 
-#### **1. Surface Floating Cities**
+##### **1. Surface Floating Cities**
 
 Known as Driftforts, these mobile surface settlements are constructed using Aquaweave Panels, a composite material derived from the sap of Aeroplume Kelp and the Elgem-engineered Marilite Fiber.
 
@@ -5378,7 +5377,7 @@ Known as Driftforts, these mobile surface settlements are constructed using Aqua
 Driftforts consist of interconnected platforms housing residential areas, aquaculture farms, and research stations. The structures adapt to ocean currents, reducing environmental stress and remaining stable even during turbulent weather. The platforms are lit by Luminous Seaweed (Algaeus Luminae), cultivated around Driftfort perimeters for natural illumination and as a deterrent to nocturnal marine predators.
 
 
-#### **2. Submerged Havens: Abyssal Sanctuaries**
+##### **2. Submerged Havens: Abyssal Sanctuaries**
 
 Beneath the waves, the Tidecallers have created Abyssal Sanctuaries, domed underwater habitats designed to blend seamlessly with the bioluminescent patterns of native marine species. These sanctuaries are built using a combination of Starlace Coral (Corallium Stellaris) and Oceanglass, materials that exemplify the Tidecallers' ingenuity.
 
@@ -5395,7 +5394,7 @@ Beneath the waves, the Tidecallers have created Abyssal Sanctuaries, domed under
 Inside these sanctuaries, the Tidecallers cultivate oxygen-generating flora like Sea Foam Algae, ensuring a self-sustaining environment for research, aquaculture, and daily life.
 
 
-### Submersible Technology: The Laan'ethira
+#### Submersible Technology: The Laan'ethira
 
 The Tidecallers employ specialized submersible vehicles, known as Laan'ethira ("Veil Explorers"), for exploration and harvesting in the ocean's depths. These vehicles are integral to their mastery of the Midnight Zones and hydrothermal ecosystems.
 
@@ -5410,7 +5409,7 @@ The Tidecallers employ specialized submersible vehicles, known as Laan'ethira ("
 - They are also equipped with bio-sensors for detecting nutrient flows, volcanic activity, and the movement of marine fauna, ensuring that Tidecaller activities remain ecologically balanced. The gathered data also has numerous research purposes, and is freely shared with all other Tribes.
 
 
-### Cultivated Flora and Harvested Resources
+#### Cultivated Flora and Harvested Resources
 
 The Tidecallers depend on a diverse array of marine flora for their survival, infrastructure, and technologies.
 
@@ -5423,7 +5422,7 @@ The Tidecallers depend on a diverse array of marine flora for their survival, in
 4) **Metallic Moss:** Harvested from hydrothermal vents, Metallic Moss absorbs heavy metals and is used in creating durable bio-composites like Marilite Fiber and Oceanglass. Its properties make it vital for underwater construction and Tidecaller tools.
 
 
-### Fauna Partnerships and Harvesting
+#### Fauna Partnerships and Harvesting
 
 The Tidecallers maintain symbiotic relationships with marine fauna, ensuring balance while utilizing the ocean's resources.
 
@@ -5438,12 +5437,12 @@ The Tidecallers maintain symbiotic relationships with marine fauna, ensuring bal
 5. **Ironclad Lobsters:** The molted shells of these lobsters, rich in natural iron, are repurposed into durable armor and tools. Tidecaller researchers analyze their composition to enhance the resilience of their underwater technologies.
 
 
-### Sustainable Practices in the Ocean
+#### Sustainable Practices in the Ocean
 
 The Tidecallers excel in sustainable aquaculture and ecological stewardship, employing innovative techniques that minimize their impact on marine ecosystems:
 
 
-#### Drift Gardens
+##### Drift Gardens
 
 Drift Gardens are mobile farms that grow Luminous Seaweed, Aeroplume Kelp, and Sea Foam Algae. These gardens drift with ocean currents to reduce localized environmental stress.
 
@@ -5452,7 +5451,7 @@ Drift Gardens are mobile farms that grow Luminous Seaweed, Aeroplume Kelp, and S
 * The Tidecallers integrate filter-feeding fauna like Flare Fish to maintain water quality, ensuring the farms enhance rather than disrupt the surrounding ecosystems.
 
 
-#### Sonic Harvesting
+##### Sonic Harvesting
 
 The Tidecallers employ sonic harvesting techniques for fishing and resource collection.
 
@@ -5461,7 +5460,7 @@ The Tidecallers employ sonic harvesting techniques for fishing and resource coll
 * Sonic tools are also used to identify vulnerable reef areas, allowing the Tidecallers to adjust their harvesting practices and support ecosystem recovery.
 
 
-#### Midnight Zone Research
+##### Midnight Zone Research
 
 Exploration of the Midnight Zones is conducted using Laan'ethira submersibles.
 
@@ -5470,17 +5469,17 @@ Exploration of the Midnight Zones is conducted using Laan'ethira submersibles.
 * Bio-sensors deployed near hydrothermal vents monitor volcanic activity and nutrient flows, ensuring sustainable use of these extreme ecosystems.
 
 
-### Connection to Laan'theren: The Tidecallers' Bond with the Endless Veil
+#### Connection to Laan'theren: The Tidecallers' Bond with the Endless Veil
 
 For the Tidecallers, Laan'theren - the “Endless Veil” - is not just an ocean but a vast, living entity that sustains their way of life and inspires their cultural identity. The boundless waters of Velgemmis are viewed as a symbol of interconnectedness, depth, and mystery, shaping the Tidecallers' spiritual beliefs, artistic expressions, and communal traditions. Their reverence for the ocean is expressed through vibrant ceremonies, mythic storytelling, and sustainable practices that align their lives with the rhythms of the sea.
 
 
-#### Rituals and Ceremonies
+##### Rituals and Ceremonies
 
 The Tidecallers celebrate the mysteries and bounty of Laan'theren through elaborate rituals that honor the ocean as both provider and protector.
 
 
-##### The Veil's Embrace
+###### The Veil's Embrace
 
 This annual ritual marks the beginning of the migratory season for the ocean's great fauna, such as the Nomad Leviathan and the Giant Water Ray. The Tidecallers believe these migrations signal a time of renewal and balance in Laan'theren's vast ecosystem.
 
@@ -5491,7 +5490,7 @@ This annual ritual marks the beginning of the migratory season for the ocean's g
   Skilled Tidecallers perform bioluminescent dances beneath the waves, using light-emitting garments made from Fungal Silk and Luminous Seaweed. These performances mimic the movement of ocean currents and the migratory patterns of marine fauna, celebrating the symbiotic relationships within Laan'theren.
 
 
-##### The Breath of the Tides
+###### The Breath of the Tides
 
 The Breath of the Tides is the Tidecallers' most significant cultural event and serves as a renewal of their Sacred Pact with Laan'Theren. Celebrated annually, this festival is both a spiritual and communal gathering, emphasizing the tribe's unity with the ocean.
 
@@ -5505,7 +5504,7 @@ The Breath of the Tides is the Tidecallers' most significant cultural event and 
   In the evening, the Tidecallers gather in silence to listen for the deep, resonant calls of the Nomad Leviathans. These calls are considered a sign of Laan'Theren's blessing and an affirmation of the tribe's place within the ocean's vast ecosystem.
 
 
-#### Stories and Mythology
+##### Stories and Mythology
 
 The Tidecallers' mythology reflects their deep reverence for the mysteries of the ocean. Central to their beliefs is the figure of the Waveweaver, a mythical entity said to guide the currents and sustain life within Laan'theren.
 
@@ -5516,7 +5515,7 @@ The Tidecallers' mythology reflects their deep reverence for the mysteries of th
 These stories are preserved through Song Currents, traditional oral compositions passed down through generations. Song Currents are performed during communal gatherings, accompanied by instruments made from Starlace Coral and Aeroplume Kelp.
 
 
-#### Symbolism and Art
+##### Symbolism and Art
 
 The aesthetics of the Tidecallers are deeply influenced by the ocean's patterns and bioluminescence. From their garments to their settlements, every aspect of their culture reflects their bond with Laan'theren.
 
@@ -5527,7 +5526,7 @@ The aesthetics of the Tidecallers are deeply influenced by the ocean's patterns 
 - **Aeroplume Lantern Sculptures**: During festivals, the Tidecallers craft intricate lanterns shaped like sea creatures, celebrating the biodiversity of Laan'theren.
 
 
-#### Trade and Resource Sharing
+##### Trade and Resource Sharing
 
 The Tidecallers view the resources of Laan'theren as gifts to be shared responsibly with other tribes. Their unique contributions to Elgem society include:
 
@@ -5538,7 +5537,7 @@ The Tidecallers view the resources of Laan'theren as gifts to be shared responsi
 - **Marine Textiles**: The Tidecallers refine fibers from Aeroplume Kelp and the molted skins of Giant Water Rays to create durable, water-resistant fabrics.
 
 
-#### Education and Philosophy
+##### Education and Philosophy
 
 Tidecaller philosophy centers on the principle of Ebb and Flow, emphasizing balance, adaptability, and mutual respect. This belief shapes their communal education and governance.
 
@@ -5547,19 +5546,19 @@ Tidecaller philosophy centers on the principle of Ebb and Flow, emphasizing bala
 * **Currents Scholars**: Specialized members of the tribe dedicate themselves to studying Laan'theren's ecosystems, mapping its currents, and understanding its biodiversity. These scholars work closely with the Laan'ethira pilots, who explore the depths in search of new knowledge and resources.
 
 
-### Sacred Pact with Laan'Theren
+#### Sacred Pact with Laan'Theren
 
 For the Tidecallers, the vast oceans of Velgemmis, collectively called Laan'Theren or “The Endless Veil,” represent both a lifeline and a challenge. The waters offer sustenance, guidance, and shelter but also demand respect for their immense and unpredictable power. The Sacred Pact with Laan'Theren embodies the Tidecallers' reverence for the ocean and their commitment to living in harmony with its currents, creatures, and rhythms.
 
 
-#### Origins of the Pact
+##### Origins of the Pact
 
 The Sacred Pact traces its origins to the Tidecallers' earliest ancestors, who first ventured onto the open waters of the Pelagic Territories. Faced with the vast, uncharted seas and the unique challenges of life on the waves, the Tidecallers turned to the ocean for sustenance and survival. Through observation and respect, they learned to navigate the currents and harness the ocean's resources without depleting them.
 
 Legend holds that the Pact was formally established after the Tidecallers' first encounter with the Nomad Leviathans, whose immense presence was seen as a manifestation of Laan'Theren's power. This event solidified their belief in a sacred balance between life and the sea, which they vowed to uphold.
 
 
-#### Tenets of the Pact
+##### Tenets of the Pact
 
 The Sacred Pact with Laan'Theren is upheld through three guiding principles that govern the Tidecallers' way of life:
 
@@ -5573,7 +5572,7 @@ The Sacred Pact with Laan'Theren is upheld through three guiding principles that
    The Tidecallers see themselves as stewards of the ocean, responsible for safeguarding its health and balance. This includes preventing overharvesting of resources, restoring damaged reef ecosystems like the Bioluminescent Reefs, and actively monitoring oceanic conditions to mitigate disruptions caused by environmental changes.
 
 
-#### Symbolic Practices and Responsibilities
+##### Symbolic Practices and Responsibilities
 
 The Tidecallers express their reverence for Laan'Theren through daily practices and traditions that reinforce the principles of the Pact.
 
@@ -5587,19 +5586,19 @@ The Tidecallers express their reverence for Laan'Theren through daily practices 
   Tidecallers preserve their oral history through the Song of the Deep, a collection of chants and melodies that recount their ancestors' first ventures onto the open ocean. These songs are performed during gatherings, strengthening the tribe's collective memory and reinforcing their shared identity.
 
 
-#### Cultural Significance
+##### Cultural Significance
 
 The Sacred Pact with Laan'Theren is central to the Tidecallers' identity, defining their relationship with the ocean and guiding their actions as stewards of its bounty. By adhering to the Pact, they ensure the health of the seas and their continued survival as a community. Their respect for Laan'Theren fosters innovation in sustainable living, from cultivating resources like Aeroplume Kelp to crafting Oceanglass for trade and technology.
 
 This symbiotic relationship between the Tidecallers and the ocean underscores their adaptability and reverence for Velgemmis's natural world, ensuring that their traditions and practices endure in harmony with the vast and unpredictable waters of Laan'Theren.
 
 
-## The Crystal Caverns: A Subterranean Lifeline
+### The Crystal Caverns: A Subterranean Lifeline
 
 Deep beneath the surface of Velgemmis lies one of its most extraordinary and vital ecosystems: the **Crystal Caverns**. This underground biome is an irreplaceable resource for the Elgem, offering materials essential to their technology, architecture, and even their cultural identity. These vast caverns, glittering with intricate crystal formations and mineral deposits, are more than just a source of raw materials - they are a testament to the Elgem's ingenuity, adaptability, and reverence for their environment.
 
 
-### A Unified Resource
+#### A Unified Resource
 
 The Crystal Caverns are one of the few biomes that every Elgem tribe relies upon, each drawing on its resources in ways that align with their unique lifestyles and needs. This interconnected dependency fosters collaboration and ensures the caverns' continued preservation.
 
@@ -5619,9 +5618,9 @@ The Crystal Caverns are one of the few biomes that every Elgem tribe relies upon
   The Tidecallers, residing on the open ocean, highly value Thalas'imir crystals for powering their marine vessels. These crystals are processed into Thalas'haraki, compact energy sources that enable long-range exploration and efficient operations of their floating civilizations. The durability of minerals like Stratosite is also critical for constructing parts of their water-resistant infrastructure.
 
 
-### Elgem Interactions with Life in the Crystal Caverns
+#### Elgem Interactions with Life in the Crystal Caverns
 
-#### Flora of the Crystal Caverns
+##### Flora of the Crystal Caverns
 
 Although the caverns are mineral-rich, their flora has evolved to thrive in the low-light, nutrient-scarce environment, becoming an integral part of the ecosystem and the Elgem's activities.
 
@@ -5632,7 +5631,7 @@ Although the caverns are mineral-rich, their flora has evolved to thrive in the 
 - **Spireleaf**: Found in the deepest sections of the caverns, Spireleaf's translucent leaves amplify crystal light, making it invaluable for optical technologies. While still rare, its potential is being explored for energy redirection and precision tools.
 
 
-#### Fauna of the Crystal Caverns
+##### Fauna of the Crystal Caverns
 
 The caverns' fauna is uniquely adapted to its subterranean environment, playing crucial roles in nutrient cycling and maintaining ecological balance.
 
@@ -5643,32 +5642,32 @@ The caverns' fauna is uniquely adapted to its subterranean environment, playing 
 - **Glimmer Larvae**: These larvae feed on mineral-rich sediments, converting them into nutrients that sustain plants like Luminous Lichen. Monitoring their health is essential to maintaining the ecosystem's balance.
 
 
-### Sustainable Practices and Technological Integration
+#### Sustainable Practices and Technological Integration
 
 Mining in the Crystal Caverns requires precision and care to preserve the biome's integrity. The Elgem's approach reflects their philosophy of sustainable coexistence, blending advanced technologies with ecological mindfulness.
 
 
-#### Resonant Drill
+##### Resonant Drill
 
 The Resonant Drill is a hallmark of Elgem mining. By emitting finely tuned vibrations, it loosens mineral deposits without causing structural damage to the caverns. This technique prevents collapses and minimizes disruption to native species like Echo Mites.
 
 
-#### Photonic Filaments
+##### Photonic Filaments
 
 These precision tools use focused light to extract crystals with minimal force. Guided by AI systems, they adapt in real-time to the cavern's structure, ensuring stability while maximizing efficiency.
 
 
-#### Bio-Mimetic Drones
+##### Bio-Mimetic Drones
 
 Inspired by the behaviors of native fauna like Crystal Scuttlers, these drones are designed for low-impact extraction and ecological monitoring. Their chromatophore-covered skins allow them to blend seamlessly into the environment, reducing stress on the cavern's inhabitants.
 
 
-#### Crystal Sanctuaries
+##### Crystal Sanctuaries
 
 Recognizing the importance of maintaining biodiversity, the Elgem have established Crystal Sanctuaries—protected zones where mining is strictly prohibited. These areas allow species like Glimmer Larvae and Echo Mites to thrive, ensuring the biome's long-term health.
 
 
-### Inter-Tribal Cooperation
+#### Inter-Tribal Cooperation
 
 The shared reliance on the Crystal Caverns fosters additional unity among the five tribes, prompting collaboration on both technological and ecological fronts. The cavern's resources and the challenges of mining in such a fragile ecosystem have led to the development of inter-tribal agreements and joint ventures.
 
@@ -5690,12 +5689,12 @@ The shared reliance on the Crystal Caverns fosters additional unity among the fi
 The Crystal Caverns exemplify the Elgem's ability to thrive in harmony with their environment. By combining advanced technology with a deep respect for nature, they have ensured that this vital biome continues to support their civilization without sacrificing its unique beauty or biodiversity.
 
 
-# Elgem Fashion: A Mix of Vibrancy and Identity
+## Elgem Fashion: A Mix of Vibrancy and Identity
 
 Elgem fashion is a vivid and intricate reflection of their connection to Velgemmis, showcasing their mastery of sustainable materials and their deep appreciation for the natural world. Each of the five tribes infuses their clothing with the essence of their unique biome, using locally sourced dyes, textiles, and embellishments. While vibrant colors and organic designs are a common thread across all tribes, their garments also serve practical purposes tailored to their environment, often incorporating advanced bio-sympathetic materials to enhance functionality.
 
 
-## Materials and Techniques
+### Materials and Techniques
 
 The Elgem are skilled artisans, blending natural and synthetic materials to craft lightweight, durable, and eco-friendly garments. Each tribe utilizes specific resources from their biome, creating textiles that reflect their surroundings:
 
@@ -5712,9 +5711,9 @@ The Elgem are skilled artisans, blending natural and synthetic materials to craf
 The Elgem also employ bio-dyes derived from plants and fungi, ensuring their clothing bursts with the vibrant colors of their biomes. Notable dyes include Chromatic Fern Extract, Electrocap Pigment, and Crimson Duskbell Nectar, each offering a unique hue that captures the essence of Velgemmis.
 
 
-## Tribal Variations
+### Tribal Variations
 
-### Veilwalkers: Echoes of the Forest Canopy
+#### Veilwalkers: Echoes of the Forest Canopy
 
 The Veilwalkers craft their clothing from materials sourced high in the Giant Tree forests. Their garments are designed to blend with the colorful flora and fauna of the canopy while providing protection against the occasional tendrils of Haar'Thalas.
 
@@ -5725,7 +5724,7 @@ The Veilwalkers craft their clothing from materials sourced high in the Giant Tr
 - **Decorations:** Embroidery mimicking the patterns of Glow Moths or Glider Monkeys is common, symbolizing the tribe's symbiotic relationships with these species.
 
 
-### Luminari: Radiance of the Swamplands
+#### Luminari: Radiance of the Swamplands
 
 The Luminari fashion reflects the luminous beauty of their swampy home. Their garments often glow faintly, mimicking the bioluminescent organisms that surround them.
 
@@ -5736,7 +5735,7 @@ The Luminari fashion reflects the luminous beauty of their swampy home. Their ga
 - **Decorations:** Accessories crafted from reflective flare fish scales or luminescent Everfloat Tree sap are popular, creating dynamic patterns that shift as the wearer moves.
 
 
-### Tidecallers: Oceanic Grace
+#### Tidecallers: Oceanic Grace
 
 The Tidecallers' fashion is inspired by the open sea, emphasizing fluidity and movement. Their garments are both practical for life on floating settlements and visually striking.
 
@@ -5747,7 +5746,7 @@ The Tidecallers' fashion is inspired by the open sea, emphasizing fluidity and m
 - **Decorations:** Intricate embroidery resembling the patterns of Nomad Leviathans or Giant Water Rays adorns ceremonial garments. Jewelry crafted from stratosite crystals adds a shimmering, oceanic touch.
 
 
-### Mycelari: Elegance of the Spore Valleys
+#### Mycelari: Elegance of the Spore Valleys
 
 The Mycelari draw inspiration from the earthy, spore-rich environment of the valleys, incorporating natural tones and fungal motifs into their clothing.
 
@@ -5758,7 +5757,7 @@ The Mycelari draw inspiration from the earthy, spore-rich environment of the val
 - **Decorations:** Their clothing often features fungal-inspired patterns, with buttons and clasps made from crystallized spores or luminous lichen.
 
 
-### Skywarders: Majesty of the Peaks
+#### Skywarders: Majesty of the Peaks
 
 The Skywarders' fashion embodies the dynamic energy of the Thunder Peaks, with designs that reflect their connection to the charged winds and electrified skies.
 
@@ -5769,31 +5768,31 @@ The Skywarders' fashion embodies the dynamic energy of the Thunder Peaks, with d
 - **Decorations:** Embroidered motifs of Stormwing Eagles and Thunderclap Birds are common, symbolizing their mastery over the skies. Electrospore Lanterns are often carried during ceremonies, adding a bioluminescent flair to their attire.
 
 
-## Cultural Significance of Homeworld Fashion
+### Cultural Significance of Homeworld Fashion
 
 Elgem clothing is a key expression of identity, spirituality, and creativity. Each tribe's attire reflects its deep connection to its biome, serving as a canvas to honor the natural world. Clothing often incorporates symbolic elements representing sacred pacts, such as lightning motifs for the Skywarders' bond with Kaeni'Vael or glowing patterns for the Luminari's connection to the bioluminescent swamps.
 
 Ceremonial attire plays an essential role in tribal rituals, often featuring elaborate designs and rare materials. For example, the Veilwalkers' ceremonial robes include flowing patterns created with Chromatic Fern Dyes, while Tidecallers adorn themselves with necklaces crafted from stratosite crystals during their Breath of the Tides festival.
 
 
-## Inter-Tribal Exchange and Influence
+### Inter-Tribal Exchange and Influence
 
 While each tribe has a distinct style, inter-tribal trade has enriched Elgem fashion with shared materials and techniques. Mycelari Fungal Silk is prized for its versatility, while Veilwalker Aerolight Resin is used to create lightweight, weather-resistant garments for the Tidecallers and Skywarders. This exchange fosters a shared cultural identity while celebrating the uniqueness of each tribe.
 
 
-## Elgem Attire Outside Their Communities
+### Elgem Attire Outside Their Communities
 
 When venturing beyond their home communities, whether for interstellar missions, diplomatic engagements, or exploration, the Elgem adopt a markedly different style of attire. In stark contrast to the vibrant, expressive fashion that characterizes their tribal life on Velgemmis, their external clothing prioritizes stealth, practicality, and concealment. These understated garments reflect not only the Elgem's cultural values of caution and adaptability but also their deeply ingrained philosophy of minimizing disturbance to unfamiliar environments and maintaining an aura of quiet dignity around other species.
 
 
-## Design and Aesthetic Philosophy
+### Design and Aesthetic Philosophy
 
 Elgem mission attire is designed to conceal their presence, both visually and aurally. The vibrant colors and intricate patterns that adorn their traditional clothing are replaced by muted, earthy tones such as charcoal grey, deep green, and matte black. These subdued hues are carefully chosen to blend seamlessly with the surroundings of other planets, starships, or space stations. The designs are simple, with clean lines and minimal ornamentation, allowing for unobtrusive movement and emphasizing function over form.
 
 Their clothing is also constructed with sound-dampening properties. Materials like Velocite Fiber, in combination with Mistweave, a specially engineered textile derived from Shroudcap Fungi and Giant Mistwort fibers, ensure that even the slightest rustle is muffled. This meticulous attention to sound reduction is essential for the Elgem, who often rely on their stealth and discretion during diplomatic or exploratory missions.
 
 
-## Material Innovation
+### Material Innovation
 
 Elgem mission attire incorporates a blend of organic and synthetic materials, mirroring the innovative approach they take with their home attire but with a focus on efficiency and concealment. Key materials include:
 
@@ -5804,7 +5803,7 @@ Elgem mission attire incorporates a blend of organic and synthetic materials, mi
 - **Leafsteel Threads:** Used to reinforce seams and structural elements, these threads ensure the durability of mission attire without adding weight or bulk.
 
 
-## Practical Features
+### Practical Features
 
 Mission attire is tailored to enhance utility and adaptability. Each garment is designed to serve multiple functions while maintaining a sleek, unobtrusive profile. Key practical features include:
 
@@ -5823,14 +5822,14 @@ Mission attire is tailored to enhance utility and adaptability. Each garment is 
 This combination of advanced materials and functional designs ensures that Elgem mission attire is not only practical but also seamlessly integrates with their environment, allowing for maximum efficiency and discretion.
 
 
-## Cultural and Psychological Implications
+### Cultural and Psychological Implications
 
 For the Elgem, mission attire is not only a practical necessity but also a symbolic gesture. The muted clothing reflects their cultural emphasis on respect for other species' spaces and the understanding that their presence, while temporary, should not disrupt or dominate. This reserved approach stems from their deeply communal ethos, where individual actions are always considered in the context of their broader impact.
 
 The shift from their vibrant home attire to these muted ensembles also serves as a form of self-discipline, reminding the Elgem of their responsibilities while away from Velgemmis. The concealing garments provide a psychological barrier, allowing them to maintain a sense of privacy and cultural identity while engaging with other civilizations.
 
 
-## Variations for Specific Missions
+### Variations for Specific Missions
 
 The Elgem adapt their mission attire based on the nature of their assignments:
 
@@ -5841,28 +5840,28 @@ The Elgem adapt their mission attire based on the nature of their assignments:
 - **Stealth Operations:** For covert missions, Elgem attire is enhanced with active camouflage technology. Microfilaments embedded in the Shadowcloth shift the garment's appearance to match the environment in real-time, ensuring near-invisibility in both natural and artificial settings.
 
 
-## The Contrasts of Elgem Fashion
+### The Contrasts of Elgem Fashion
 
 The stark difference between Elgem mission attire and their vibrant home fashion underscores their adaptability and pragmatism. At home, their clothing is a celebration of their culture and environment, bursting with the colors and motifs of Velgemmis's unique biomes. On missions, their attire is a testament to their discipline, humility, and focus on efficiency. This duality reflects the heart of the Elgem ethos: a balance between individuality and community, expression and subtlety, progress and preservation.
 
 Through their mission attire, the Elgem project an image of quiet strength and refined purpose, embodying their philosophy of leaving no trace while carrying the essence of their harmonious society into the wider galaxy.
 
 
-# Tattoos: Marks of Identity and Adulthood
+## Tattoos: Marks of Identity and Adulthood
 
 Among the Elgem, tattoos are deeply ingrained in their cultural traditions, serving as both a personal expression and a symbol of tribal identity. Each tribe has developed its own distinct tattooing styles, drawing inspiration from the flora, fauna, and environment of their biomes. These tattoos are often vibrant and dynamic, using natural dyes and patterns that mimic the unique ecosystems each tribe inhabits. Receiving one's first tattoo is a significant milestone, marking the transition from adolescence to adulthood and the acceptance of greater responsibilities within the community.
 
 
-## Rite of Passage: The First Tattoo
+### Rite of Passage: The First Tattoo
 
 The process of receiving a first tattoo is both ceremonial and deeply personal. Young Elgem participate in a tribal ritual that involves choosing a design aligned with their personality, aspirations, or connection to their environment. Tattooists, known as Inkaris, are highly respected within Elgem society for their artistry and knowledge of natural dyes. The dyes used are derived from local plants and minerals, carefully prepared to ensure both vibrancy and longevity.
 
 The act of tattooing is accompanied by chants or songs that reflect the tribe's values and history. The design is chosen collaboratively with the Inkaris, who interpret the individual's story into a visual form. The placement of the tattoo is equally symbolic, often denoting an area of strength, skill, or personal growth.
 
 
-## Tribal Tattoo Traditions
+### Tribal Tattoo Traditions
 
-### Veilwalkers: Patterns of the Forest
+#### Veilwalkers: Patterns of the Forest
 
 Veilwalker tattoos are inspired by the intricate patterns of the Giant Tree forests. Designs often feature intertwining vines, leaves, and floral motifs, echoing the natural beauty of their arboreal homes.
 
@@ -5873,7 +5872,7 @@ Veilwalker tattoos are inspired by the intricate patterns of the Giant Tree fore
 - **Placement:** Common placements include the forearms or collarbone, symbolic of the wearer's dexterity and agility - qualities highly valued by the Veilwalkers.
 
 
-### Luminari: Radiant Swirls
+#### Luminari: Radiant Swirls
 
 Luminari tattoos are characterized by flowing, luminescent designs inspired by the glowing swamps. Patterns often depict swirling water currents, glowing swampweed, and the reflective scales of Flare Fish.
 
@@ -5884,7 +5883,7 @@ Luminari tattoos are characterized by flowing, luminescent designs inspired by t
 - **Placement:** Tattoos are commonly placed along the spine or the legs, symbolizing stability and adaptability in the swampy environment.
 
 
-### Tidecallers: Oceanic Marks
+#### Tidecallers: Oceanic Marks
 
 Tidecaller tattoos embody the vastness and movement of the ocean. Designs often feature flowing lines that mimic waves, currents, and migratory patterns of marine fauna.
 
@@ -5895,7 +5894,7 @@ Tidecaller tattoos embody the vastness and movement of the ocean. Designs often 
 - **Placement:** Tattoos are often placed on the chest or shoulders, reflecting strength and a connection to the expansive seas of Laan'Theren.
 
 
-### Mycelari: Fungal Symmetry
+#### Mycelari: Fungal Symmetry
 
 Mycelari tattoos celebrate the intricate beauty of the Spore Valleys. Symmetrical designs often depict fungal growth patterns, spore clouds, or the branching networks of mycelium.
 
@@ -5906,7 +5905,7 @@ Mycelari tattoos celebrate the intricate beauty of the Spore Valleys. Symmetrica
 - **Placement:** Tattoos are typically placed on the back or thighs, reflecting the Mycelari's grounded nature and their ties to the spore-rich earth.
 
 
-### Skywarders: Charged Symbols
+#### Skywarders: Charged Symbols
 
 Skywarder tattoos embody the electrified energy of the Thunder Peaks, with bold, jagged designs that mirror lightning strikes and wind currents.
 
@@ -5917,13 +5916,13 @@ Skywarder tattoos embody the electrified energy of the Thunder Peaks, with bold,
 - **Placement:** Tattoos are often placed on the arms or legs, highlighting the wearer's physical strength and agility in navigating the peaks.
 
 
-## Cultural Significance
+### Cultural Significance
 
 Tattoos are more than mere adornments to the Elgem; they serve as living records of an individual's journey and a testament to their connection to their tribe. While the first tattoo marks the transition to adulthood, additional tattoos are earned throughout life, commemorating significant achievements, alliances, or personal growth. For instance, a Tidecaller may receive a new design after successfully navigating a major storm, while a Veilwalker might add a motif representing a particularly challenging ascent through the forest canopy.
 
 Inter-tribal gatherings provide opportunities for cultural exchange, and tattoos often become a focal point of storytelling and connection. The intricate designs serve as conversation starters, allowing Elgem from different tribes to share the stories and traditions behind their markings.
 
 
-## A Testament to Identity
+### A Testament to Identity
 
 Elgem tattoos are a vibrant, living testament to their harmony with Velgemmis and the diverse biomes they inhabit. These marks of identity, forged in the dyes and patterns of their environment, reflect the ingenuity, resilience, and cultural richness of their society. For the Elgem, their tattoos are connections to their world, their tribe, and their legacy.
